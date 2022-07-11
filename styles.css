@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width:100vw;
+    height:100vh;
+    background-image:url('images/staticimage1.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+}
