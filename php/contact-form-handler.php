@@ -1,6 +1,6 @@
 <?php 
 $errors = '';
-$myemail = 'hello@adra-advocates.com';
+$myemail = 'sandejoseph191@gmail.com';
 if(empty($_POST['fname'])  || 
    empty($_POST['jobtitle'])  || 
    empty($_POST['lname'])  || 
